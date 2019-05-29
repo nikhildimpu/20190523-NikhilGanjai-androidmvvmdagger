@@ -16,7 +16,7 @@ import javax.inject.Inject;
 import javax.inject.Singleton;
 
 /**
- * Created by jyotidubey on 22/02/19.
+ * Created by nganjai on 05/22/19.
  */
 @Singleton
 public class ViewModelProviderFactory extends ViewModelProvider.NewInstanceFactory {
