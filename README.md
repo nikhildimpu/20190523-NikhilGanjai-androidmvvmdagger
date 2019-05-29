@@ -4,3 +4,5 @@
 3. **ui**: View classes along with their corresponding ViewModel.
 4. **utils**: Utility classes.
 
+### Sample using Android MVVM Architecture to build the app.
+Just make pull request. You are in!
